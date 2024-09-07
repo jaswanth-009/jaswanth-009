@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jaswanth-009
-- 👀 I’m interested in : iOS application development, tvOS application development, c++
-- 🌱 I’m currently learning "Application development for Apple Platforms"
+- 👀 I’m interested in : Software Development, C++
 - 📫 How to reach me : Email-id: kunjetijassvanthh@gmail.com"
 
 <!---
